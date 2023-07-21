@@ -6,7 +6,7 @@
   I'm Kenny, a Full-Stack Software Engineer
 </h3>
 
-I am Full-Stack Software Engineer with an eye for good UI and building better user experiences. Previously at: <a href="https://klaviyo.com/" target="_blank">Klaviyo</a>, <a href="https://airvet.com" target="_blank">Airvet</a>, <a href="https://macu.com" target="_blank">MACU</a>, and <a href="https://hexagon.com/company/divisions/manufacturing-intelligence/msc-software" target="_blank">MSC Software</a>.
+I am Full-Stack Software Engineer currently at <a href="https://oracle.com">Oracle</a> with an eye for good UI and building better user experiences. Previously at: <a href="https://klaviyo.com/" target="_blank">Klaviyo</a>, <a href="https://airvet.com" target="_blank">Airvet</a>, <a href="https://macu.com" target="_blank">MACU</a>, and <a href="https://hexagon.com/company/divisions/manufacturing-intelligence/msc-software" target="_blank">MSC Software</a>.
 
 Let's work together to build great apps and make the world a better place to be!
 
